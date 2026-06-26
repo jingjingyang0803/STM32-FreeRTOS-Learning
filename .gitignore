@@ -1,0 +1,23 @@
+# Keil build output
+Objects/
+Listings/
+
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.htm
+*.dep
+*.lnp
+
+# Keil user/local files
+*.uvoptx
+*.uvguix.*
+*.bak
+
+# Debug/temp
+*.tmp
+*.log
